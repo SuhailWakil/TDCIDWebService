@@ -1,0 +1,89 @@
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\ApplicationInsights.config
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\TDCIDWebService.dll.config
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\TDCIDWebService.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\TDCIDWebService.pdb
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.Web.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.WindowsServer.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.ApplicationInsights.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Threading.Tasks.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.IO.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Runtime.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Threading.Tasks.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.Web.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.AI.WindowsServer.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.ApplicationInsights.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Threading.Tasks.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.IO.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Runtime.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Threading.Tasks.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\obj\Release\TDCIDWebService.csproj.App.config
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\obj\Release\TDCIDWebService.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\obj\Release\TDCIDWebService.pdb
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\obj\Release\TDCIDWebService.csprojResolveAssemblyReference.cache
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.Mvc.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.Razor.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.WebPages.Razor.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.WebPages.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Web.Infrastructure.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.WebPages.Deployment.dll
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.Mvc.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.Razor.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.WebPages.Razor.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.WebPages.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\Microsoft.Web.Infrastructure.xml
+c:\users\swakil\documents\visual studio 2015\Projects\TDCIDWebService\TDCIDWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\ApplicationInsights.config
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\TDCIDWebService.dll.config
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\TDCIDWebService.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\TDCIDWebService.pdb
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.Web.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.IO.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Runtime.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Threading.Tasks.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.Razor.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.WebPages.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.Web.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.IO.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Runtime.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Threading.Tasks.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.Mvc.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.Razor.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.WebPages.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\obj\Release\TDCIDWebService.csproj.App.config
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\obj\Release\TDCIDWebService.csprojResolveAssemblyReference.cache
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\obj\Release\TDCIDWebService.csproj.CoreCompileInputs.cache
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\obj\Release\TDCIDWebService.dll
+C:\Users\Adminstrator\Documents\Apps\TDCIDWebService\obj\Release\TDCIDWebService.pdb

@@ -1,0 +1,125 @@
+﻿<html>
+<head>
+    <title>Details of CheckIn</title>
+   
+
+    <link href="public/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="public/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="public/css/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="public/css/style.css" rel="stylesheet" type="text/css">
+    <link href="public/css/googleapis.css" rel="stylesheet" type="text/css">
+    <link href="public/css/printstyle.css" rel="stylesheet" type="text/css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdn.rawgit.com/MrRio/jsPDF/master/dist/jspdf.min.js"></script> 
+
+</head>
+<body><div id="create_pdf">Create PDF</div>
+    <form class="ui form">
+        <section id="details">
+            <div class="container">
+                <span>
+                    <div id="create_pdf">Create PDF</div>
+                    <div class="row"><strong>Check In Details</strong></div>
+                </span>
+                <div class="row padding-top-10">
+                    <div class="col-md-3">
+                        <span>
+                            <div class="form-group"><span class="bold-text">Accela Ref. ID</span><span class="text-control">DTCM-16CHI-00000-0A3ZC</span></div>
+                        </span>
+                        <span>
+                            <div class="form-group"><span class="bold-text">Check-In</span><span class="text-control">June 21st 2016, 9:49 am</span></div>
+                            <div class="form-group"><span class="bold-text">Payment Method</span><span class="text-control">Cash</span></div>
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <div class="form-group"><span class="bold-text">Hotel Name</span><span class="text-control">5365</span></div>
+                        </span>
+                        <span>
+                            <div class="form-group"><span class="bold-text">Check Out</span><span class="text-control">June 21st 2016</span></div>
+                            <div class="form-group"><span class="bold-text">Credit Card Type</span><span class="text-control"></span></div>
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <div class="form-group"><span class="bold-text">Room Number</span><span class="text-control">418</span></div>
+                            <div class="form-group"><span class="bold-text">Bedrooms</span><span class="text-control">1</span></div>
+                            <div class="form-group"><span class="bold-text">Card Number</span><span class="text-control"></span></div>
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <div class="form-group"><span class="bold-text">Check In Type</span><span class="text-control">Guest</span></div>
+                            <div class="form-group"><span class="bold-text">Old Check-In ID</span><span class="text-control"></span></div>
+                            <div class="form-group"><span class="bold-text">Paid Amount</span><span class="text-control">0</span></div>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="guest">
+            <div class="container">
+                <span>
+                    <div padding-top-10="" class="row"><strong>Guest Details (detail.salutation)</strong></div>
+                </span>
+                <div class="row padding-top-10">
+                    <div class="col-md-3">
+                        <div class="form-group"><span class="bold-text">First Name</span><span class="text-control">detail.firstName</span></div>
+                        <div class="form-group"><span class="bold-text">Passport #</span><span class="text-control">detail.passportNumber</span></div>
+                        <div class="form-group"><span class="bold-text">Email #</span><span class="text-control">detail.email</span></div>
+                        <div class="form-group"><span class="bold-text">Phone #</span><span class="text-control">detail.phone2CountryCode detail.phone2</span></div>
+                        <div class="form-group"><span class="bold-text">Document Type</span><span class="text-control">document.DocumentType</span></div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-group"><span class="bold-text">Last Name</span><span class="text-control">detail.lastName</span></div>
+                        <div class="form-group"><span class="bold-text">ID Number</span><span class="text-control">detail.stateIDNbr</span></div>
+                        <div class="form-group"><span class="bold-text">Nationality</span><span class="text-control">detail.nationality</span></div>
+                        <div class="form-group"><span class="bold-text">Additional Phone #</span><span class="text-control">detail.phone3CountryCode detail.phone3</span></div>
+                        <div class="form-group"><span class="bold-text">Issued Country</span><span class="text-control">document.IssuedCountry</span></div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-group"><span class="bold-text">Arabic Name</span><span class="text-control">detail.ArabicName</span></div>
+                        <div class="form-group"><span class="bold-text">Visit Purpose</span><span class="text-control">detail.VisitPurpose</span></div>
+                        <div class="form-group"><span class="bold-text">Residence Country</span><span class="text-control">detail.birthRegion</span></div>
+                        <div class="form-group"><span class="bold-text">Residency Phone #</span><span class="text-control">detail.phone1CountryCode detail.phone1</span></div>
+                        <div class="form-group"><span class="bold-text">Document Issued Date</span><span class="text-control">document.DocumentIssuedDate | momentMod</span></div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-group"><span class="bold-text">Full Name</span><span class="text-control">detail.fullName</span></div>
+                        <div class="form-group"><span class="bold-text">Birth Date</span><span class="text-control">detail.birthDate | momentMod</span></div>
+                        <div class="form-group"><span class="bold-text">Birth Place</span><span class="text-control">detail.PlaceofBirth</span></div>
+                        <div class="form-group"><span class="bold-text">-</span><span class="text-control">-</span></div>
+                        <div class="form-group"><span class="bold-text">Document Expire Date</span><span class="text-control">document.DocumentExpiryDate | momentMod</span></div>
+                    </div>
+                </div>
+                <div id="screenshot-slider" class="padding-20 owl-carousel owl-theme" style="opacity: 1; display: block;">
+                    <div class="owl-wrapper-outer">
+                        <div class="owl-wrapper" style="width: 3624px; left: 0px; display: block; transition: all 800ms ease; transform: translate3d(-453px, 0px, 0px);">
+                            <div class="owl-item" style="width: 453px;">
+                                <div class="item"><img src="public/img/screenshots/screen1.png" alt="" class="lazyOwl"></div>
+                            </div>
+                            <div class="owl-item" style="width: 453px;">
+                                <div class="item"><img src="public/img/screenshots/screen2.png" alt="" class="lazyOwl"></div>
+                            </div>
+                            <div class="owl-item" style="width: 453px;">
+                                <div class="item"><img src="public/img/screenshots/screen3.png" alt="" class="lazyOwl"></div>
+                            </div>
+                            <div class="owl-item" style="width: 453px;">
+                                <div class="item"><img src="public/img/screenshots/screen4.png" alt="" class="lazyOwl"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-controls">
+                        <div class="owl-pagination">
+                            <div class="owl-page active"><span class=""></span></div>
+                            <div class="owl-page"><span class=""></span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </form>
+        <script type="text/javascript" src="//cdn.rawgit.com/niklasvh/html2canvas/0.5.0-alpha2/dist/html2canvas.min.js"></script>
+        <script type="text/javascript" src="public/js/pdfconv.js"></script>
+</body>
+</html>
