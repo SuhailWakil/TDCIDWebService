@@ -33,7 +33,7 @@ namespace TDCIDWebService.Accela
 
         public static List<CheckInSummary> GetRestCheckIns(string token, string id, string fullName, string firstName, string middleName, string lastName, string openedDateFrom, string openedDateTo, string businessName, string description, string roomStatus, string statusDateFrom, string statusDateTo)
         {
-            var recType = "Services/Unit/Check In/New";
+            var recType = "Licenses/Business/Retail Food Establishment/Temporary Restaurant Events";
             var serializer = new JavaScriptSerializer();
             var dictionary = new Dictionary<string, object>
             {
@@ -70,7 +70,7 @@ namespace TDCIDWebService.Accela
 
             var serializedResult = serializer.Serialize(dictionary);
 
-            var url = $"/apis/v4/search/records?token={token}&limit=100&sort=openedDate&expand=customForms,professionals,contacts";
+            var url = $"/apis/v4/search/records?token={token}&limit=10&sort=openedDate&expand=customForms,professionals,contacts";
 
             dynamic output = SendRestRequest(url, "POST", serializedResult);
             if (output.ContainsKey("result"))

@@ -76,8 +76,8 @@
                               <div class="col-xs-12 col-sm-12 col-md-12">
                                  <div class="form-group">
                                       <select runat="server" class="form-control input-sm" id="language" placeholder="Language">
-                                        <option value="ar">Arabic</option>
                                         <option value="en">English</option>
+                                        <option value="ar">Arabic</option>
                                        </select>
                                  </div>
                               </div>
